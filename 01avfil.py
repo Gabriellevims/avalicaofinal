@@ -1,4 +1,4 @@
-print("Quanto de imposto você tem que pegar?")
+print("Quanto de imposto você tem que pagar?")
 # entrada de dado
 salario= float(input("Digite seu salário atual:"))
 # verificação do imposto de acordo com o salário da pessoa
